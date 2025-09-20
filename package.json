@@ -16,7 +16,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "analyze": "source-map-explorer 'build/static/js/*.js'",
+    "analyze": "source-m8ap-explorer 'build/static/js/*.js'",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
