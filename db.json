@@ -1,0 +1,104 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "year": 1925,
+      "genre": "Literary Fiction",
+      "status": "finished",
+      "progress": 180,
+      "totalPages": 180
+    },
+    {
+      "id": "2",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "year": 1960,
+      "genre": "Southern Gothic",
+      "status": "reading",
+      "progress": 150,
+      "totalPages": 324
+    },
+    {
+      "id": "3",
+      "title": "1984",
+      "author": "George Orwell",
+      "year": 1949,
+      "genre": "Dystopian",
+      "status": "wantToRead",
+      "progress": 0,
+      "totalPages": 328
+    },
+    {
+      "id": "4",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "year": 1951,
+      "genre": "Coming-of-Age",
+      "status": "finished",
+      "progress": 234,
+      "totalPages": 234
+    },
+    {
+      "id": "5",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "year": 1813,
+      "genre": "Romance",
+      "status": "reading",
+      "progress": 50,
+      "totalPages": 432
+    },
+    {
+      "id": "6",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "year": 1937,
+      "genre": "Fantasy",
+      "status": "wantToRead",
+      "progress": 0,
+      "totalPages": 310
+    },
+    {
+      "id": "7",
+      "title": "Moby Dick",
+      "author": "Herman Melville",
+      "year": 1851,
+      "genre": "Adventure",
+      "status": "wantToRead",
+      "progress": 0,
+      "totalPages": 635
+    },
+    {
+      "id": "8",
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "year": 1869,
+      "genre": "Historical Fiction",
+      "status": "reading",
+      "progress": 800,
+      "totalPages": 1225
+    },
+    {
+      "id": "9",
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "year": 1954,
+      "genre": "Fantasy",
+      "status": "finished",
+      "progress": 1178,
+      "totalPages": 1178
+    },
+    {
+      "id": "10",
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "year": 1965,
+      "genre": "Science Fiction",
+      "status": "reading",
+      "progress": 220,
+      "totalPages": 412
+    }
+  ]
+}
