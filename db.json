@@ -6,7 +6,7 @@
       "author": "F. Scott Fitzgerald",
       "year": 1925,
       "genre": "Literary Fiction",
-      "status": "finished",
+      "status": "wantToRead",
       "progress": 180,
       "totalPages": 180
     },
@@ -16,7 +16,7 @@
       "author": "Harper Lee",
       "year": 1960,
       "genre": "Southern Gothic",
-      "status": "reading",
+      "status": "finished",
       "progress": 150,
       "totalPages": 324
     },
@@ -86,7 +86,7 @@
       "author": "J.R.R. Tolkien",
       "year": 1954,
       "genre": "Fantasy",
-      "status": "finished",
+      "status": "wantToRead",
       "progress": 1178,
       "totalPages": 1178
     },
@@ -99,6 +99,16 @@
       "status": "reading",
       "progress": 220,
       "totalPages": 412
+    },
+    {
+      "id": "1758381894365",
+      "title": "My Tiny Book",
+      "author": "Sedat Çapar",
+      "totalPages": 1,
+      "year": 2025,
+      "genre": "Unknown",
+      "status": "wantToRead",
+      "progress": 0
     }
   ]
 }
